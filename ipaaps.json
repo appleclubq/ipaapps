@@ -4,7 +4,7 @@
   "subtitle": "Базовый репозиторий приложений",
   "description": "Базовый репозиторий приложений Telegram канала: @appleclubq ",
   "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/AppleClub.png",
-  "sourceURL": "https://raw.githubusercontent.com/ars2nb/ipafiles/main/apps.json",
+  "sourceURL": "https://github.com/appleclubq/ipaapps/blob/main/ipaaps",
   "apps": [
     {
       "name": "AppBank",
