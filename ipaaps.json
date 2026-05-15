@@ -26,6 +26,27 @@
         "https://github.com/appleclubq/ipaapps/releases/download/screenshots/2.webp",
         "https://github.com/appleclubq/ipaapps/releases/download/screenshots/3.webp"
       ]
+    },
+    {
+      "name": "Альфа Банк,
+      "bundleIdentifier": "com.alga.ru",
+      "developerName": "АО Альфа-Банк",
+      "subtitle": "",
+      "category": "Bank",
+      "version": "15.02.0",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/kluch.2.ipa",
+      "localizedDescription": "Приложение Альфа Банка под названием А-Ключ с бесконтактной оплатой на iPhone от 28/02/2026",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/default.png",
+      "tintColor": "101010",
+      "size": 225817162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://static.rustore.ru/imgproxy/cCWu10l70foFjDCFYx2GqJJfMJeck_QxVqY-_-MLro8/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/d4617777-6a11-4b0e-bc2a-20a59fa8964a.jpg@webp",
+        "https://static.rustore.ru/imgproxy/4MF0jQVpAV_RhWY2-Zlb5qyJL1gtd6vwhK9TE8Fkb4Q/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/71af38fb-4b13-4858-bfc4-a532890adbf4.jpg@webp",
+        "https://static.rustore.ru/imgproxy/OPsszqyVycLH-_EUTBvAdQaZLFyls76MpKhmG9q5IVA/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/130bca2c-a5a1-45b4-9449-006b54bfb9e1.jpg@webp"
+        ]
     }
   ]
 }
