@@ -97,7 +97,6 @@
       "identifier": "new-apps-added-2",
       "caption": "Каталог пополнен приложениями: В разработке.",
       "tintColor": "007AFF",
-      "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.apps.60.png",
       "date": "2026-03-09T16:45:00Z",
       "notify": true
     },
@@ -106,6 +105,7 @@
       "identifier": "welcome-appbank",
       "caption": "Репозиторий банков, модифицированных приложений и игр от Telegram канала: @appleclubq",
       "tintColor": "21A038",
+      "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.apps.60.png",
       "date": "2026-03-09T13:00:00Z",
       "notify": true
     }
