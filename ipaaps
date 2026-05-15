@@ -1,0 +1,24 @@
+{
+  "name": "AppleClub",
+  "identifier": "tg.appleclub.repo",
+  "subtitle": "Базовый репозиторий приложений",
+  "description": "Базовый репозиторий приложений Telegram канала: @appleclubq ",
+  "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/AppleClub.png",
+  "sourceURL": "https://raw.githubusercontent.com/ars2nb/ipafiles/main/apps.json",
+  "apps": [
+    {
+      "name": "AppBank",
+      "bundleIdentifier": "com.appbank.ru",
+      "developerName": "AppBank",
+      "subtitle": "",
+      "category": "AppBank",
+      "version": "2.4",
+      "versionDate": "2026-05-05",
+      "versionDescription": "Обновление клиента до версии 2.4",
+      "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/mp.ipa",
+      "localizedDescription": "Клиент AppBank для удобного доступа к каталогу банковских приложений.",
+      "iconURL": "https://appbank.pw/favicon/android-chrome-512x512.png",
+      "tintColor": "101010",
+      "size": 18917162,
+      "beta": false
+    },
