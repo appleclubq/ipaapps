@@ -154,8 +154,6 @@
       ]
     },
     {
-  "apps": [
-    {
       "name": "Rave",
       "bundleIdentifier": "com.rave.ru",
       "developerName": "Rave Inc.",
