@@ -114,7 +114,7 @@
     {
       "name": "YouTube (mod)",
       "bundleIdentifier": "com.youtube.ru",
-      "developerName": "Google",
+      "developerName": "Google LLC",
       "subtitle": "",
       "category": "Messenger",
       "version": "43.9.0",
@@ -127,9 +127,9 @@
       "size": 117217162,
       "beta": false,
       "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/db/ec/36dbecd1-9a85-d55a-e84b-8022ea777825/7a94f703-7c3e-4789-9bd7-ce80045fe7b6_iOS-6.5-in_1.jpg/230x498bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/55/e3/4155e384-a42d-6062-2007-282bb040363d/9bde600a-9d57-41c4-830b-3261fee4a323_iOS-6.5-in_2.jpg/230x498bb.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/16/8b/c0168b1e-2e37-25bb-8336-b896eabd3374/634cb861-844f-4310-9dca-1d395031a99e_iOS-6.5-in_3.jpg/230x498bb.webp"
+        "https://play-lh.googleusercontent.com/y3srMbY7P7_XavsEeQ0sQNGd9__6NX_wa6oMisLGm0G7h8ubMX2NAb0Ik78q37sFfA=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/FaVPStGZWbLbOKgNBMYKxh2htRPu6yEXyUr3IqEGSfVKc_E5I0gMkyMD8btJPj6RDFI=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/OOFtzTs626v-apT12xNBq1sEcF8pyjuHtPP8CZt2M8bPSR7eXLjwjFmM_KAR-W_bt4GE=w2560-h1440-rw"
       ]
     },
     {
@@ -172,6 +172,27 @@
         "https://play-lh.googleusercontent.com/VUnWe50cRMJkPgehbaj6fdDhLWKFgoLY0W3jkTq9Gel_yIKp-YE39gS8I0H5UhWyrtuS2QiCnLyafR1UPLD9L60=w2560-h1440-rw",
         "https://play-lh.googleusercontent.com/wjZa7gv4YPj6EfYtvaPXp1w3XoethE6u8-lNTxNdpuhTrX7XsYW1hpLA0bROZKspJb27r7zPACA33K9isCd4=w2560-h1440-rw",
         "https://play-lh.googleusercontent.com/ekM_Iq5V0lwa3iDffQXxhToPmnIHR15IBa_X6BKmU0kvtA_UWjPq-wzJ05ZXrndATNFSwba0pHG-AL4KBfRR-Tw=w2560-h1440-rw"
+      ]
+    ,
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.minecraft.ru",
+      "developerName": "Mojang Studios",
+      "subtitle": "",
+      "category": "Game",
+      "version": "1.26.13",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Minecraft.-.1.26.13.ipa",
+      "localizedDescription": "Погрузитесь в открытый мир, где можно строить, создавать и выживать. Собирайте ресурсы, переживайте ночи и стройте все, что только можно вообразить, по одному блоку за раз. Исследуйте и создавайте свой путь в полностью открытом мире, где вы можете играть с друзьями, строить город, разводить хозяйство, добывать полезные ископаемые, сражаться с таинственными врагами или просто экспериментировать, не ограничивая свою фантазию! \n\n Telegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Minecraft.png",
+      "tintColor": "101010",
+      "size": 593617162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://play-lh.googleusercontent.com/5iv3BlDOV4jTtBKFfY6rmwKNHS6JAO7o6uWJAEmW2u016Le0DqOlzcu4c6DGnhgUbJB6=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/EM3gSk89Uhkj91lC8GSfY8MZ7IHMbZ9rPxOhtECI2FeXY3hvIAIoZJVII9FR3bN3wsab=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/LBMPDZXharGg-Lp7z9vn2X5oSwIw-05WU7c6wOXuarpc3SuINz2mtFba5YkO8cEVwD4=w2560-h1440-rw"
       ]
     }
   ],
