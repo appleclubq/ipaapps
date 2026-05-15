@@ -173,6 +173,27 @@
         "https://play-lh.googleusercontent.com/wjZa7gv4YPj6EfYtvaPXp1w3XoethE6u8-lNTxNdpuhTrX7XsYW1hpLA0bROZKspJb27r7zPACA33K9isCd4=w2560-h1440-rw",
         "https://play-lh.googleusercontent.com/ekM_Iq5V0lwa3iDffQXxhToPmnIHR15IBa_X6BKmU0kvtA_UWjPq-wzJ05ZXrndATNFSwba0pHG-AL4KBfRR-Tw=w2560-h1440-rw"
       ]
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.minecraft.ru",
+      "developerName": "Mojang Studios",
+      "subtitle": "",
+      "category": "Game",
+      "version": "1.26.13",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Minecraft.-.1.26.13.ipa",
+      "localizedDescription": "Погрузитесь в открытый мир, где можно строить, создавать и выживать. Собирайте ресурсы, переживайте ночи и стройте все, что только можно вообразить, по одному блоку за раз. Исследуйте и создавайте свой путь в полностью открытом мире, где вы можете играть с друзьями, строить город, разводить хозяйство, добывать полезные ископаемые, сражаться с таинственными врагами или просто экспериментировать, не ограничивая свою фантазию! \n\n Telegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Minecraft.png",
+      "tintColor": "101010",
+      "size": 593617162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://play-lh.googleusercontent.com/5iv3BlDOV4jTtBKFfY6rmwKNHS6JAO7o6uWJAEmW2u016Le0DqOlzcu4c6DGnhgUbJB6=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/EM3gSk89Uhkj91lC8GSfY8MZ7IHMbZ9rPxOhtECI2FeXY3hvIAIoZJVII9FR3bN3wsab=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/LBMPDZXharGg-Lp7z9vn2X5oSwIw-05WU7c6wOXuarpc3SuINz2mtFba5YkO8cEVwD4=w2560-h1440-rw"
+      ]
     }
   ],
   "news": [
