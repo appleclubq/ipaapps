@@ -4,21 +4,27 @@
   "subtitle": "Базовый репозиторий приложений",
   "description": "Базовый репозиторий приложений Telegram канала: @appleclubq ",
   "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/AppleClub.png",
-  "sourceURL": "https://github.com/appleclubq/ipaapps/blob/main/ipaaps",
+  "sourceURL": "https://github.com/appleclubq/ipaapps/blob/main/ipaaps.json",
   "apps": [
     {
-      "name": "AppBank",
-      "bundleIdentifier": "com.appbank.ru",
-      "developerName": "AppBank",
+      "name": "Сбер Банк",
+      "bundleIdentifier": "com.sber.ru",
+      "developerName": "ПАО Сбербанк",
       "subtitle": "",
-      "category": "AppBank",
-      "version": "2.4",
-      "versionDate": "2026-05-05",
-      "versionDescription": "Обновление клиента до версии 2.4",
-      "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/mp.ipa",
-      "localizedDescription": "Клиент AppBank для удобного доступа к каталогу банковских приложений.",
-      "iconURL": "https://appbank.pw/favicon/android-chrome-512x512.png",
+      "category": "Bank",
+      "version": "17.0.0",
+      "versionDate": "2026-03-09",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/finance-online.ipa",
+      "localizedDescription": "Приложение Сбера с бесконтактной оплатой Вжух на iPhone от 08/12/2025",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/C.png",
       "tintColor": "101010",
       "size": 18917162,
       "beta": false
-    },
+    "screenshotURLs": [
+        "https://github.com/appleclubq/ipaapps/releases/download/screenshots/1.webp",
+        "https://github.com/appleclubq/ipaapps/releases/download/screenshots/2.webp",
+        "https://github.com/appleclubq/ipaapps/releases/download/screenshots/3.webp"
+      ]
+    }
+   
