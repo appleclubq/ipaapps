@@ -29,7 +29,7 @@
     },
     {
       "name": "Альфа Банк",
-      "bundleIdentifier": "com.alga.ru",
+      "bundleIdentifier": "com.alfa.ru",
       "developerName": "АО Альфа-Банк",
       "subtitle": "",
       "category": "Bank",
@@ -47,6 +47,68 @@
         "https://static.rustore.ru/imgproxy/4MF0jQVpAV_RhWY2-Zlb5qyJL1gtd6vwhK9TE8Fkb4Q/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/71af38fb-4b13-4858-bfc4-a532890adbf4.jpg@webp",
         "https://static.rustore.ru/imgproxy/OPsszqyVycLH-_EUTBvAdQaZLFyls76MpKhmG9q5IVA/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/130bca2c-a5a1-45b4-9449-006b54bfb9e1.jpg@webp"
         ]
-    }
+      },
+    {
+      "name": "Telegram Dark",
+      "bundleIdentifier": "com.telegram.ru",
+      "developerName": "Telegram FZ-LLC",
+      "subtitle": "",
+      "category": "Messenger",
+      "version": "12.6.2",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Teledark_12.6.2.ipa",
+      "localizedDescription": "Модифицированное приложение Telegram с уникальными функциями:\n- Сохранение удаленных сообщений (даже в фоне).\n- Призрак в сообщениях.\n- Призрак в историях.\n- Загрузка историй.\n- Сохранение сгораемых фото\n- Бесконечный просмотр сгораемых фото.\n- Разрешено сохранение и пересылка, материалов из закрытых групп и каналов.\n- Загрузка голосовых из mp3.\n- Запись разговоров.\n\n⚙️Настройки мода включаются - Настройки -> TeleDark."",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Telegram.Dark.png",
+      "tintColor": "101010",
+      "size": 72717162,
+      "beta": true,
+      "screenshotURLs": [
+        "https://static.rustore.ru/imgproxy/Q-gOGAWlgcJO66Xsij6VD9SSs3bAbRI5giobfVxOhxA/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/2063507966/content/SCREENSHOT/9f00c0f3-b57b-4ef5-8fea-92e709f0a6cd.png@webp",
+        "https://static.rustore.ru/imgproxy/hJQKPBMnKvlfNU0Q3-r3AEORwfQO4Ro-VR1xpPwT5yE/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/2063507966/content/SCREENSHOT/7b26ceb3-9bf6-4573-86c4-081c47686c31.png@webp",
+        "https://static.rustore.ru/imgproxy/--DLaDW03MOUCeKjJK3O-vXOPcaSRJ0hqC7beddq6NU/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/2063507966/content/SCREENSHOT/60008942-48dd-41ae-9993-b33da230e3db.png@webp"
+        ]
+    },
+    {
+      "name": "Instagram (mod)",
+      "bundleIdentifier": "com.instagram.ru",
+      "developerName": "Instagram inc",
+      "subtitle": "",
+      "category": "Messenger",
+      "version": "426.0.0",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Beegram_1.6.ipa",
+      "localizedDescription": "Модифицированное приложение Instagram с уникальными функциями:\n- Сохранение удаленных сообщений (даже в фоне).\n- Призрак в сообщениях.\n- Призрак в историях.\n- Загрузка историй.\n- Сохранение сгораемых фото\n- Бесконечный просмотр сгораемых фото.\n- Разрешено сохранение и пересылка, материалов из закрытых групп и каналов.\n- Загрузка голосовых из mp3.\n- Запись разговоров.\n\n⚙️Настройки мода включаются - Настройки -> TeleDark."",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Instagram.mod.png",
+      "tintColor": "101010",
+      "size": 221417162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/a1/96/8ca19680-d9a7-efb9-8536-9ad531efd6af/1_iOS_6.5.jpg/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/d3/21/a4d321b2-f1e6-2b24-861c-4fe69a996598/2_iOS_6.5.jpg/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/34/cc/c234cc71-06f0-b008-ec88-41f55bad384d/3_iOS_6.5.jpg/230x498bb.webp"
   ]
+    }
+  ],
+  "news": [
+    {
+      "title": "Добавлены новые приложения",
+      "identifier": "new-apps-added-2",
+      "caption": "Каталог пополнен приложениями: В разработке.",
+      "tintColor": "007AFF",
+      "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.apps.60.png",
+      "date": "2026-03-09T16:45:00Z",
+      "notify": true
+    },
+    {
+      "title": "Добро пожаловать в Apple Club",
+      "identifier": "welcome-appbank",
+      "caption": "Репозиторий банков, модифицированных приложений и игр от Telegram канала: @appleclubq",
+      "tintColor": "21A038",
+      "date": "2026-03-09T13:00:00Z",
+      "notify": true
+    }
+  ],
+  "userInfo": {}
 }
