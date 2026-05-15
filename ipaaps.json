@@ -2,9 +2,9 @@
   "name": "AppleClub",
   "identifier": "tg.appleclub.repo",
   "subtitle": "Базовый репозиторий приложений",
-  "description": "Базовый репозиторий приложений Telegram канала: @appleclubq ",
+  "description": "Базовый репозиторий приложений Telegram канала: @appleclubq",
   "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/AppleClub.png",
-  "sourceURL": "https://github.com/appleclubq/ipaapps/blob/main/ipaaps.json",
+  "sourceURL": "https://appleclubq.github.io/ipaapps/ipaaps.json",
   "apps": [
     {
       "name": "Сбер Банк",
@@ -20,11 +20,12 @@
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/C.png",
       "tintColor": "101010",
       "size": 18917162,
-      "beta": false
-    "screenshotURLs": [
+      "beta": false,
+      "screenshotURLs": [
         "https://github.com/appleclubq/ipaapps/releases/download/screenshots/1.webp",
         "https://github.com/appleclubq/ipaapps/releases/download/screenshots/2.webp",
         "https://github.com/appleclubq/ipaapps/releases/download/screenshots/3.webp"
       ]
     }
-   
+  ]
+}
