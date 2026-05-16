@@ -101,7 +101,7 @@
       "versionDate": "2026-05-15",
       "versionDescription": "Релиз в репозитории",
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Tik.Tok.r3tok.1.2.43.9.0.ipa",
-      "localizedDescription": "Модифицированное приложение TiKTok с уникальными функциями:\n\n⚡ Смена региона без VPN (по умолчанию - Германия).\n⚡ Удалена реклама. \n⚡ Скачивание и отправка видео и слайд-шоу без водяных знаков. \n⚡ Снятие запрета на запрещенные звуки. \n⚡ Прогресс бар включен на всех видео. \n⚡ Исправлен вход в аккаунт. \n⚡ Другие мелкие фичи  \n\n⚙️ Настройки мода встроены в приложения \n\n Telegram: @appleclubq",
+      "localizedDescription": "Модифицированное приложение TiKTok с уникальными функциями:\n\n⚡ Смена региона без VPN (по умолчанию - Германия).\n⚡ Удалена реклама. \n⚡ Скачивание и отправка видео и слайд-шоу без водяных знаков. \n⚡ Снятие запрета на запрещенные звуки. \n⚡ Прогресс бар включен на всех видео. \n⚡ Исправлен вход в аккаунт. \n⚡ Другие мелкие фичи  \n\n⚙️ Настройки мода встроены в приложения \n\nTelegram: @appleclubq",
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/TikTok.mod.2.png",
       "tintColor": "101010",
       "size": 389117162,
@@ -155,6 +155,27 @@
       ]
     },
     {
+      "name": "Whatsapp (mod) 🔥",
+      "bundleIdentifier": "com.whatsapp.ru",
+      "developerName": "WhatsApp LLC",
+      "subtitle": "Особенности мода в описании",
+      "category": "Messenger",
+      "version": "43.9.0",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/WGold_2.0.ipa",
+      "localizedDescription": "Модифицированное приложение Whatsapp с уникальными функциями:\n\n⚡ Антиудаление сообщений. \n⚡ Антиудаление фото видео. \n⚡ ‌Просмотр и сохранение одноразовых фото и видео. \n⚡ Скрытие просмотра статуса. \n⚡ Скрытие просмотра статуса \n⚡ Множество других функций. \n\n⚙️ Telegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/WhatsApp.2.png",
+      "tintColor": "101010",
+      "size": 128517162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://play-lh.googleusercontent.com/W85e8zeQKacRoSryi6BrE9LTKax5TwWYkCnOpDjQu_JPxNJ4EahPE2SrYTUwyaJe5KA=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/G7-3ZUH6W7qwUx3QBwAGGkQtKrwUK72UDHgmBLqHzGReD1jpW7Yl7wiUFvKj_YIHqhg=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/JNr4uZ9Xg8n7T0R1PWp2y2-YmKXDQsjTmsu5HYuIu-FT-ZYTzxoeqKW4-B14W9TKjA=w2560-h1440-rw"
+      ]
+    },
+    {
       "name": "Rave",
       "bundleIdentifier": "com.rave.ru",
       "developerName": "Rave Inc.",
@@ -164,7 +185,7 @@
       "versionDate": "2026-05-15",
       "versionDescription": "Релиз в репозитории",
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Rave.-.8.0.ipa",
-      "localizedDescription": "Приложение Rave позволяет смотреть фильмы вместе с друзьями, общаться и писать сообщения. \n Требуется вход в аккаунт Google (перед этим включите приложение для подмены региона) \n\n Telegram: @appleclubq",
+      "localizedDescription": "Приложение Rave позволяет смотреть фильмы вместе с друзьями, общаться и писать сообщения. \n\n ❗Требуется вход в аккаунт Google (перед этим включите приложение для подмены региона) \n\n Telegram: @appleclubq",
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Rave.2.png",
       "tintColor": "101010",
       "size": 116217162,
@@ -202,7 +223,7 @@
       "developerName": "Google LLC",
       "subtitle": "Активирован Premium",
       "category": "Music",
-      "version": "9.1.6",
+      "version": "9.11.2",
       "versionDate": "2026-05-15",
       "versionDescription": "Релиз в репозитории",
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/ytmu_9.11.2.ipa",
@@ -248,7 +269,7 @@
       "versionDate": "2026-05-15",
       "versionDescription": "Релиз в репозитории",
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Minecraft.-.1.26.13.ipa",
-      "localizedDescription": "В этой версии приложения нет входа в XBOX, для получения Minecraft бесплатно без слётов, со входом в XBOX подпишитесь на наш приватный Telegram. Информация в @appleclubq. \n Погрузитесь в открытый мир, где можно строить, создавать и выживать. Собирайте ресурсы, переживайте ночи и стройте все, что только можно вообразить, по одному блоку за раз. \n\n Telegram: @appleclubq",
+      "localizedDescription": "В этой версии приложения нет входа в XBOX, для получения Minecraft бесплатно без слётов, со входом в XBOX подпишитесь на наш приватный Telegram. Информация в @appleclubq. \n\nПогрузитесь в открытый мир, где можно строить, создавать и выживать. Собирайте ресурсы, переживайте ночи и стройте все, что только можно вообразить, по одному блоку за раз. \n\n⭐ Telegram: @appleclubq",
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Minecraft.2.png",
       "tintColor": "101010",
       "size": 593617162,
@@ -269,7 +290,7 @@
       "versionDate": "2026-05-15",
       "versionDescription": "Релиз в репозитории",
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Terraria.-.1.4.5.4.ipa",
-      "localizedDescription": "Судьба мира в ваших руках: сражайтесь за выживание, копите богатства и добивайтесь славы. Исследуйте бескрайние глубины и просторы, испытайте себя в бою или постройте свой город! \n\n Telegram: @appleclubq",
+      "localizedDescription": "Судьба мира в ваших руках: сражайтесь за выживание, копите богатства и добивайтесь славы. Исследуйте бескрайние глубины и просторы, испытайте себя в бою или постройте свой город! \n\n⭐ Telegram: @appleclubq",
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Terraria.2.png",
       "tintColor": "101010",
       "size": 185117162,
@@ -279,13 +300,76 @@
         "https://play-lh.googleusercontent.com/gKP5-FJcPFiEcLt0FBncqm7w7rAHCfCj37K9RTbGiOpKGNoQyeMwvSgV2l3GwE3qm2zd-r0HQvXY83fzy9truao=w2560-h1440-rw",
         "https://play-lh.googleusercontent.com/VAxJd3C0F94AfzNtwtE6SJK7bMgJDIRn8uSdFiGMRDrrmmdJuLKMUMUU5-WuD3eoZWM=w2560-h1440-rw"
       ]
+    },
+    {
+      "name": "Adobe Premiere (mod) 🔥",
+      "bundleIdentifier": "com.pradobe.ru",
+      "developerName": "Adobe inc",
+      "subtitle": "Разблокирована подписка, читайте описание",
+      "category": "Video",
+      "version": "26.10.1",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Adobe_Premiere_AI_Video_Editor_v26_10_1_Subscription_Unlocked.ipa",
+      "localizedDescription": "Примечание: Войдите в систему с случайным аккаунтом (переключитесь на регион США, если Adobe заблокирован). Выберите самый высокий тарифный план и нажмите Купить, затем Отменить и перезапустите приложение. Теперь у вас должна быть премиум-подписка. \n\n Telegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Adobe.premiere.2.png",
+      "tintColor": "101010",
+      "size": 67817162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cb/9f/5a/cb9f5a80-fa8e-1801-635e-067e389cb552/Adobe_Premiere_EN_iOS_6.9_Screenshots_260311_01.png/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/3c/f9/0a3cf95f-b668-d109-c74b-74fcb1efa1a8/Adobe_Premiere_EN_iOS_6.9_Screenshots_Colors-V1_Black_-_Splash.png/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/4c/06/954c065d-9ada-519f-401d-75bd2c48cd00/Adobe_Premiere_EN_iOS-6.9_Screenshot_Coachella-03_copy.jpg/230x498bb.webp"
+      ]
+    },
+    {
+      "name": "Photoroom (mod) 🔥",
+      "bundleIdentifier": "com.pradobe.ru",
+      "developerName": "Photoroom AI Photo Editor",
+      "subtitle": "Разблокирована подписка, читайте описание",
+      "category": "Video",
+      "version": "26.17.1",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Photoroom.ipa",
+      "localizedDescription": "Примечание: Подписка Premium активирована. Создавайте профессиональные изображения, которые продают, с Photoroom AI. \nТехнология искусственного интеллекта Photoroom упрощает дизайн, редактирование, удаление и замену любого фона на ваших фотографиях. Создавайте изображения профессионального качества, которые укрепляют ваш бренд, увеличивают вовлечённость и стимулируют продажи. \n\n Telegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/PhotoRoom.2.png",
+      "tintColor": "101010",
+      "size": 190817162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://play-lh.googleusercontent.com/rkVz8QCFAPJb-qDK9_YVu-nDInGCLFWaWKRnty976cJpMmaoqIFfT3OcT4ykZi70_RQ=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/3H3bvh081x4_ZXjkBWjJDqpkSgAoHU1YdNbk0c5XTICFVuIVw9SholkvRsB9O_F2xw=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/-0seYLKavEDVtNMtH8NfkMbIQMYZEgqyAH9Sy8o5dHW2QM2InYrFoNxzZtzvK54aVqv9=w2560-h1440-rw"
+      ]
+    },
+    {
+      "name": "Wallcraft Wallpapers🔥",
+      "bundleIdentifier": "com.pradobe.ru",
+      "developerName": "Photoroom AI Photo Editor",
+      "subtitle": "Разблокирована подписка Premium",
+      "category": "app",
+      "version": "3.35.",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Wallcraft_._Wallpapers._live_v3_35_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Примечание: Подписка Premium активирована, все обои бесплатные и устанавливаются без ограничений. \n\n Telegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Warcraft.Wallpaper.mod.2.png",
+      "tintColor": "101010",
+      "size": 112417162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/d4/dc/bad4dc42-6ee6-5c0e-c37e-5d13533fe2ac/1f918175-dddc-4184-a977-aa546ccc9cf2__U0416_U0438_U0432_U044b_U0435.jpg/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/f6/bb/edf6bb79-1cbd-efe8-3859-8a5f81aec32d/2.jpg/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/a6/82/56a6829f-263f-4ff0-ccc2-e6e0ced3c622/4.jpg/230x498bb.webp"
+      ]
     }
   ],
   "news": [
     {
       "title": "Обновления и Новости",
       "identifier": "new-apps-added-3",
-      "caption": "Здесь пока пусто, вскоре мы расскажем вам о нововведениях \n\n Telegram: @appleclubq",
+      "caption": "Здесь пока пусто, вскоре мы расскажем вам о нововведениях \n\nTelegram: @appleclubq",
       "tintColor": "007AFF",
       "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.apps.2.png",
       "date": "2026-03-09T16:45:00Z",
@@ -294,7 +378,7 @@
     {
       "title": "Как установть Т-Банк",
       "identifier": "new-apps-added-2",
-      "caption": "Установить Т-Банк с бесконтактной оплатой можно через официальный сайт Т-Банка. Следуйте инструкции по ссылке: \n\n На данный момент установка Т-Банка с бесконтактной оплатой через наш репозиторий невозможна, все новые ipa файлы не поддерживают установку через сертификаты \n\n Telegram: @appleclubq",
+      "caption": "⬇️Установить Т-Банк с бесконтактной оплатой можно через официальный сайт Т-Банка. Следуйте инструкции в закреплённом сообщении Telegram канала: @appleclubq \n\nНа данный момент установка Т-Банка с бесконтактной оплатой через наш репозиторий невозможна, все новые ipa файлы не поддерживают установку через сертификаты \n\n Telegram: @appleclubq",
       "tintColor": "007AFF",
       "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.apps.80.png",
       "date": "2026-03-09T16:45:00Z",
@@ -303,7 +387,7 @@
     {
       "title": "Добро пожаловать!",
       "identifier": "welcome-appbank",
-      "caption": "Репозиторий банков, модифицированных приложений и игр от Telegram канала: @appleclubq",
+      "caption": "Приветствую! Спасибо за вашу поддержку! ❤️‍🔥 \n\nЭто Базовый репозиторий банков, модифицированных приложений и игр от Telegram канала: @appleclubq.\n\n По всем вопросам репозитория и не только пишите администратору канала, его контакты есть в закреплённом сообщении на канале \n\nЕсли вы хотите найти больше модифицированных приложений, переходите в наш второй Telegram: @appleappsq",
       "tintColor": "21A038",
       "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.1.png",
       "date": "2026-03-09T13:00:00Z",
