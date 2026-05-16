@@ -38,7 +38,7 @@
       "versionDate": "2026-05-15",
       "versionDescription": "Релиз в репозитории",
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/kluch.2.ipa",
-      "localizedDescription": "Приложение Альфа Банка под названием А-Ключ с бесконтактной оплатой на iPhone от 28/02/2026 \n\n Telegram: @appleclubq",
+      "localizedDescription": "Приложение Альфа Банка под названием А-Ключ с бесконтактной оплатой на iPhone от 28/02/2026 \n\nTelegram: @appleclubq",
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Alfa.png",
       "tintColor": "101010",
       "size": 225817162,
@@ -47,6 +47,27 @@
         "https://static.rustore.ru/imgproxy/cCWu10l70foFjDCFYx2GqJJfMJeck_QxVqY-_-MLro8/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/d4617777-6a11-4b0e-bc2a-20a59fa8964a.jpg@webp",
         "https://static.rustore.ru/imgproxy/4MF0jQVpAV_RhWY2-Zlb5qyJL1gtd6vwhK9TE8Fkb4Q/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/71af38fb-4b13-4858-bfc4-a532890adbf4.jpg@webp",
         "https://static.rustore.ru/imgproxy/OPsszqyVycLH-_EUTBvAdQaZLFyls76MpKhmG9q5IVA/preset:web_scr_prt_384/plain/https://static.rustore.ru/apk/558271/content/SCREENSHOT/130bca2c-a5a1-45b4-9449-006b54bfb9e1.jpg@webp"
+      ]
+    },
+    {
+      "name": "Авито",
+      "bundleIdentifier": "com.avito.ru",
+      "developerName": "ООО КЕХ еКоммерц",
+      "subtitle": "Официальное приложение экспортированное из App Store",
+      "category": "Apps",
+      "version": "200.5",
+      "versionDate": "2026-05-15",
+      "versionDescription": "Релиз в репозитории",
+      "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/Avito_200.5_ios_15.2.ipa",
+      "localizedDescription": "Доска объявлений Avito удалённая из App Store. \n\nTelegram: @appleclubq",
+      "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Avito.png",
+      "tintColor": "101010",
+      "size": 639517162,
+      "beta": false,
+      "screenshotURLs": [
+        "https://static.rustore.ru/imgproxy/tD2u8ldXmQ-ATjIDsiKkUSYiy6VbtwvFFWLMvNV8Csk/preset:web_scr_prt_384/plain/https://static.rustore.ru/2026/5/7/79/apk/2688703/content/SCREENSHOT/e8d74c05-a541-414d-9646-368b5a8cf8b3.png@webp",
+        "https://static.rustore.ru/imgproxy/q8TRK22zWrxUwdf5pwSjRqwZJnxwJ1yWgto_TG488h0/preset:web_scr_prt_384/plain/https://static.rustore.ru/2025/11/3/01/apk/2688703/content/SCREENSHOT/a095d237-b0dd-4845-9d4e-da822ed7eb2e.png@webp",
+        "https://static.rustore.ru/imgproxy/uQT6lP7Ac8vIR3y2ZPa4_kthXST2EdmQFcWabRWCV4o/preset:web_scr_prt_384/plain/https://static.rustore.ru/2025/11/3/83/apk/2688703/content/SCREENSHOT/fe784b32-e4e5-4d1f-b2df-25ee09183fea.jpg@webp"
       ]
     },
     {
