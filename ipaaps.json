@@ -19,7 +19,7 @@
       "downloadURL": "https://github.com/appleclubq/ipaapps/releases/download/apps/finance-online.ipa",
       "localizedDescription": "Приложение Сбера с бесконтактной оплатой Вжух на iPhone от 08/12/2025 \n\n Telegram: @appleclubq",
       "iconURL": "https://github.com/appleclubq/ipaapps/releases/download/icon/Sber.png",
-      "tintColor": "101010",
+      "tintColor": "21B046",
       "size": 273917162,
       "beta": false,
       "screenshotURLs": [
@@ -95,7 +95,7 @@
       "name": "TiKTok (mod)",
       "bundleIdentifier": "com.tiktok.ru",
       "developerName": "TikTok Pte. Ltd.",
-      "subtitle": "",
+      "subtitle": "Позволяет пользоваться TiKTok в Росиии",
       "category": "Messenger",
       "version": "43.9.0",
       "versionDate": "2026-05-15",
