@@ -404,6 +404,7 @@
       "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.apps.80.png",
       "date": "2026-03-09T16:45:00Z",
       "notify": true
+      "url": "https://t.me/appleclubq"
     },
     {
       "title": "Добро пожаловать!",
@@ -413,6 +414,7 @@
       "imageURL": "https://github.com/appleclubq/ipaapps/releases/download/screenshots/post.1.png",
       "date": "2026-03-09T13:00:00Z",
       "notify": true
+      "url": "https://t.me/appleclubq"
     }
   ],
   "userInfo": {}
